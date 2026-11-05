@@ -1,0 +1,15 @@
+ABA001|Arroz blanco 1kg|Abarrotes|4600.0|40|15|Diana
+ABA002|Aceite vegetal 1L|Abarrotes|9800.0|14|6|Distribuidora Central
+ABA003|Cafe molido 250g|Abarrotes|11500.0|9|5|Luker
+ABA004|Azucar blanca 1kg|Abarrotes|4500.0|25|10|Incauca
+ASE002|Detergente 500g|Aseo|7500.0|20|5|Distribuidora Norte
+ASE003|Jabon de bano x3|Aseo|8400.0|4|6|Distribuidora Norte
+ASE004|Papel higienico x4|Aseo|6900.0|18|8|Familia
+BEB003|Gaseosa 1.5L|Bebidas|5800.0|8|12|Postobon
+BEB004|Jugo Hit 500ml|Bebidas|3200.0|10|12|Postobon
+BEB005|Agua sin gas 600ml|Bebidas|2000.0|30|10|Postobon
+LAC001|Leche entera 1L|Lacteos|4200.0|35|10|Alqueria
+LAC002|Yogurt vaso 200g|Lacteos|2800.0|6|8|Alqueria
+LAC003|Queso campesino 250g|Lacteos|7900.0|12|5|Colanta
+SNK001|Papas naturales 45g|Snacks|2500.0|22|8|Margarita
+SNK002|Galletas Wafer paquete|Snacks|1800.0|0|10|Noel
